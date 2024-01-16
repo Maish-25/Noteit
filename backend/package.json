@@ -4,7 +4,9 @@
   "description": "inotebook-Your notebook on the cloud",
   "main": "index.js",
   "start": "node index.js",
-    "build": "react-scripts build",
+  "build": "echo 'No build step required for backend'",
+  "heroku-postbuild": "echo 'No postbuild step required for backend'",
+  
   "author": "",
   "license": "ISC",
   "dependencies": {
