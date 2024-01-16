@@ -3,10 +3,8 @@
   "version": "1.0.0",
   "description": "inotebook-Your notebook on the cloud",
   "main": "index.js",
-  "scripts": {
-    "build":" npm i"
-    
-  },
+  "start": "react-scripts start",
+    "build": "react-scripts build",
   "author": "",
   "license": "ISC",
   "dependencies": {

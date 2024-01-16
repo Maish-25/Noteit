@@ -18,7 +18,7 @@ export const Navbar = () => {
     >
       <div className="container-fluid">
         <Link className="navbar-brand" to="/">
-          <h3 className="mx-2">iNoteBook</h3>
+          <h3 className="mx-2">NoteiT</h3>
         </Link>
         <button
           className="navbar-toggler"
